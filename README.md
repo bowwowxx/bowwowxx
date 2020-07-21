@@ -4,7 +4,7 @@
 - 🌱 [bowwow dotblogs] (https://dotblogs.com.tw/bowwowxx)
 - 📚 [Docker 這樣學才有趣：從入門，到玩直播、挖礦](https://www.tenlong.com.tw/products/9789572246559)
 
-<div align="center">
+<div align="left">
 <img width="200" src="https://user-images.githubusercontent.com/36894700/87100902-d335a500-c24d-11ea-868b-6e36e00f87fb.png">
 <img width="200" src="https://bowwow.tips/img/logo.png">
 </div>
