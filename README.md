@@ -2,7 +2,7 @@
 - 🌱 [bowwow.tips] (https://bowwow.tips/)
 - 🌱 [bowwow ghost blog] (https://bowwowxx.github.io/ghblog/)
 - 🌱 [bowwow dotblogs] (https://dotblogs.com.tw/bowwowxx)
-- 📚 [出版書籍:Docker 這樣學才有趣：從入門，到玩直播、挖礦](https://www.eslite.com/product/1001115182636744)
+- 📚 [出版書籍] Docker 這樣學才有趣：從入門，到玩直播、挖礦 (https://www.eslite.com/product/1001115182636744)
 
 <div align="left">
 <!--<img width="200" src="https://user-images.githubusercontent.com/36894700/87100902-d335a500-c24d-11ea-868b-6e36e00f87fb.png">-->
